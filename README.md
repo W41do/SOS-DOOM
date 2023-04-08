@@ -52,3 +52,66 @@
 > ```
 > ./linux/linuxxdoom -2
 > ```
+
+
+# CentOS Stream
+### Minimal Install
+#### Basic functionality.
+
+```
+CentOS Stream 9
+Kernel 5.14.0-295.e19.x86_64 on an x86_64
+
+localhost login: root
+Password: student
+```
+After Fresh Install:
+```
+du / --exclude=/{proc,sys,dev} -abc | sort -n
+
+...
+
+1161858241      total
+```
+
+```
+dnf install git
+```
+```
+git clone https://github.com/W41do/SOS-DOOM.git
+```
+```
+dnf remove git
+```
+```
+dnf instal Xephyr
+```
+```
+yum install xorg-x11-xinit.x86_64
+```
+```
+yum install xterm.x86_64
+```
+
+~~yum install xorg-x11-server-Xvfb.x86_64~~ 
+```
+yum install xorg-x11-server-Xorg.x86_64
+```
+In first terminal
+```
+startx /usr/bin/xterm -- :1
+```
+```
+Xephyr :2 -ac -screen 640x480x8
+```
+SECOND TERMINAL - CTRL + ALT + F2
+
+```
+DISPLAY=:2
+```
+```
+./linux/linuxxdoom -2
+```
+SWITCH AGAIN TO FIRST TERMINAL WITH CTRL + ALT + F1
+
+ENJOY
