@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://www.youtube.com/watch?v=g9gHC2quF3A">
-    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="1024">
+    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
   </a>
 
   <h3 align="center">« DOOM (1993) Original Version  »</h3>
