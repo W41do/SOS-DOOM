@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=g9gHC2quF3A">
+  <a href="https://github.com/W41do/SOS-DOOM">
     <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
   </a>
 
@@ -18,6 +18,9 @@
 </div>
 
 
+
+
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -54,15 +57,19 @@
   </ol>
 </details>
 
+---
+
+</br>
+
 
 <!-- ABOUT THIS GAME -->
-## **ABOUT THIS GAME**
-The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games. An enhanced version was released on PC, consoles, and mobile devices in 2019.
+# **ABOUT THIS GAME**
+The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### **Minimum system requirements:**
-----
+## **Minimum system requirements:**
+
 **CPU**:
 486 processor operating at a minimum of 66MHz or any Pentium /Athlon processors
 
@@ -88,8 +95,8 @@ A 100% Windows 95/98/ME/2000-compatible true 16-bit sound card and drivers or le
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
-## **ABOUT THIS PROJECT**
-### **Assignment and purpose**
+# **ABOUT THIS PROJECT**
+## **Assignment and purpose**
 
 The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM**.
 
@@ -111,10 +118,10 @@ The **current** version of the operating system as of February 01, 2023 was used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### **Solution Approach**
+## **Solution Approach**
 ---
 
-#### **Selection of Linux kernel-based operating system**
+### **Selection of Linux kernel-based operating system**
 CentOS Stream 9 proved to be the most suitable choice primarily due to its minimal installation option and user-friendly environment.
 
  
