@@ -13,7 +13,7 @@
     <a href="https://store.steampowered.com/app/2280/DOOM_1993/"><strong>« Game on Steam »</strong></a>
     <br />
     <br />
-    <a href="TODO">« TODO »</a> · <a href="TODO">« Documentation »</a> · <a href="TODO">« TODO »</a>
+    <a href="https://github.com/W41do/SOS-DOOM/tree/master/DOOM"> « Fixed DOOM Source Code »</a> · <a href="TODO">« Documentation »</a> · <a href="https://www.youtube.com/watch?v=2WvoFOwv7z4">« DOOM Original Soundtrack »</a>
   </p>
 </div>
 
@@ -57,7 +57,6 @@
 
 <!-- ABOUT THIS GAME -->
 ## **ABOUT THIS GAME**
-----
 The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games. An enhanced version was released on PC, consoles, and mobile devices in 2019.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,7 +89,6 @@ A 100% Windows 95/98/ME/2000-compatible true 16-bit sound card and drivers or le
 
 <!-- ABOUT THE PROJECT -->
 ## **ABOUT THIS PROJECT**
----
 ### **Assignment and purpose**
 
 The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM**.
