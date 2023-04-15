@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/W41do/SOS-DOOM">
+  <a>
     <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
   </a>
 
@@ -119,7 +119,6 @@ The **current** version of the operating system as of February 01, 2023 was used
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## **Solution Approach**
----
 
 ### **Selection of Linux kernel-based operating system**
 CentOS Stream 9 proved to be the most suitable choice primarily due to its minimal installation option and user-friendly environment.
@@ -642,3 +641,5 @@ in* jj
 up* jj
 un* jj
 ```
+
+![Minion](https://octodex.github.com/images/minion.png)
