@@ -1,4 +1,178 @@
-# **SOS DOOM**
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=g9gHC2quF3A">
+    <img src="https://github.com/W41do/SOS-DOOM/tree/master/assets/doom-sos-edition.png" alt="Logo" width="256">
+  </a>
+
+  <h3 align="center">« DOOM (1993) Original Version  »</h3>
+
+  <p align="center">
+    « SOS Edition »
+    <br />
+    <a href="https://store.steampowered.com/app/2280/DOOM_1993/"><strong>« Game on Steam »</strong></a>
+    <br />
+    <br />
+    <a href="TODO">« TODO »</a> · <a href="TODO">« Documentation »</a> · <a href="TODO">« TODO »</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#application-description">TODO</a>
+      <ul>
+        <li><a href="#erd-entity-relationship-diagram">TODO</a></li>
+          <ul>
+            <li><a href="#mysql-workbench-erd">TODO</a></li>
+            <li><a href="#postgresql-pgadmin-erd">TODO</a></li>
+            <li><a href="#description-of-each-table">TODO</a></li>
+            <li><a href="#3rd-normal-form">TODO</a></li>
+          </ul>
+        <li><a href="#use-case-diagram">TODO</a></li>
+        <li><a href="#system-context-diagram">TODO</a></li>
+      </ul>
+    <li><a href="#non-functional-and-functional-requirements">TODO</a></li>
+    </li>
+    <li>
+      <a href="#ddl-&-dml-scripts">TODO</a>
+      <ul>
+        <li><a href="#postgresql">TODO</a></li>
+         <ul>
+            <li><a href="#screenshots-from-the-pgadmin">TODO</a></li>
+         </ul>
+         <li><a href="#mysql">TODO</a></li>
+      </ul>
+    </li>
+    <li>
+     <a href="#license">TODO</a>
+    </li>
+  </ol>
+</details>
+
+
+<!-- ABOUT THIS GAME -->
+## **ABOUT THIS GAME**
+----
+The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games. An enhanced version was released on PC, consoles, and mobile devices in 2019.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### **Minimum system requirements:**
+----
+**CPU**:
+486 processor operating at a minimum of 66MHz or any Pentium /Athlon processors
+
+**RAM**:
+8 MB RAM
+
+**OS**:
+Windows 95/98/ME/ 2000 operating system or **Linux** ;)
+
+**STO**:
+40 MB of uncompressed hard disk space 100MB of free hard drive space for the Windows/Linux swap file (in addition to install space)
+
+**Sound**:
+A 100% Windows 95/98/ME/2000-compatible true 16-bit sound card and drivers or let Linux do the magic.
+
+**Recommended peripheral**  : 100% Windows 95/98/ME/2000-compatible mouse and driver
+100% Windows 95/98/ME/2000-compatible keyboard or let Linux do the magic.
+
+**NOTE**: A 100% Windows 95/98/ME/2000-compatible computer system (including compatible 32-bit drivers for video card, sound card and input devices) or let Linux do the magic.
+
+> *There are only official system requirements on the site which are released by developers or an official publisher.*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ABOUT THE PROJECT -->
+## **ABOUT THIS PROJECT**
+---
+### **Assignment and purpose**
+
+The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM**.
+
+The project is based on an artificially created problem. Minimalistic systems can be found in practice. The aim of the project is to deepen knowledge of the structure of operating systems, especially those based on the Linux kernel. Linux-based systems are commonly used on various hardware platforms, from single-board computers and desktops to computing clusters. They are also used in a wide range of devices related to study programs at the faculty. These include mobile devices, sensor units, multimedia devices, network devices (routers, switches), medical devices, and more.
+
+The output of the project is a modified operating system in the form of a virtual machine, which can be run using the Oracle VM VirtualBox (VB) software.
+
+The operating system for the project was chosen from the following options:
+
+CentOS (Stream) `www.centos.org`,
+
+Fedora `getfedora.org`,
+
+Debian `www.debian.org`,
+
+Ubuntu `ubuntu.com`.
+
+The **current** version of the operating system as of February 01, 2023 was used to solve the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### **Solution Approach**
+---
+
+#### **Selection of Linux kernel-based operating system**
+CentOS Stream 9 proved to be the most suitable choice primarily due to its minimal installation option and user-friendly environment.
+
+ 
+
+After installing the operating system, the original source code of Linux DOOM released by ID software in 1997 was downloaded and modified [`https://github.com/id-Software/DOOM`] by re-typing variables and adjusting constants in specific places.
+
+The source code modification and compilation were done following the tutorial from the YouTube channel Gabriel_
+`https://www.youtube.com/watch?v=9JgQfQHHhTw`
+
+
+Shareware (*Shareware is a software marketing concept where an incomplete or time-limited version of a program is released to entice people into buying the full (registered) version.*) was obtained from the website `www.doomworld.com`
+
+> `https://www.doomworld.com/classicdoom/info/shareware.php`
+
+
+
+
+
+TODO 
+
+
+Section on running DOOM on a minimal installation of CentOS Stream 9 without GUI.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **DANGER ZONE**
+# **DANGER ZONE**
+# **DANGER ZONE**
+# **DANGER ZONE**
+# **DANGER ZONE**
+
+## The content below has not been edited yet and served primarily as a solving procedure for the author.
+---
+## The content below has not been edited yet and served primarily as a solving procedure for the author.
+---
+## The content below has not been edited yet and served primarily as a solving procedure for the author.
+---
+## The content below has not been edited yet and served primarily as a solving procedure for the author.
+---
+## The content below has not been edited yet and served primarily as a solving procedure for the author.
+---
 
 ## Clone & Run DOOM on Linux
 
@@ -59,7 +233,7 @@
 
 # **DOOM ON LINUX WITHOUT GUI**
 
-Použili jsme
+
 # CentOS Stream
 ### Minimal Install
 #### Basic functionality.
@@ -319,20 +493,16 @@ rm -rfv /usr/libexec/Xorg.wrap
 
 OVA
 
-rm -rfv /usr/share/locale
-rm -rfv /usr/lib/modules/.../kernel/fs
+proxy - ok jj
+gdm - ok jj
+event - ok + clean.sh (nn) jj
+history - ok + pridat do clean.sh jj
+krb5 - ok jj
+ldap - ok jj
+lua - ok jj
+libm - ok jj
+cursor - ok jj
 
-proxy - ok
-gdm - ok
-event - ok + clean.sh (nn)
-history - ok + pridat do clean.sh
-gpg NOOOOOOOOOOOOOOO
-krb5 - ok
-ldap - ok
-lua - ok
-libm - ok
-cursor - ok
-pam - to work or not to work
 api - ok
 sss - ok
 alloc - ok
@@ -345,7 +515,7 @@ cpu - ok
 
 
 
-OVA UWUUUUUUU
+OVA
 
 
 samsung
@@ -389,5 +559,81 @@ audit NOO
 
 
 
-usr/libexec/vi az na konci delete...
+usr/libexec/vi az na konci delete... ? spis ne
+
+
+deleting from usr bin
+
+rm -rfv *host*
+rm -rfv sg_*
+rm -rfv *se*
+
+rm all sg
+
+zkusit:
+au* jj
+*base* jj
+*code* jj
+ch NO
+col jj
+cron jj
+pydoc jj
+sha jj
+
+putty ?
+ip*
+script*
+show*
+info*
+
+print*
+ren*
+pw*
+get*
+pi*
+
+all *color*
+wa*
+gr* NO
+
+OVAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+grep NOOOO
+
+
+
+
+lsi*
+lsl*
+wh*
+dir*
+ex ?
+
+fc JJ
+fg JJ
+
+
+dbus
+env
+
+
+gr
+kdb
+kmod
+libinput
+locale
+lsblk
+
+nl
+
+time
+
+
+
+
+ge* jj
+gp* jj
+in* jj
+up* jj
+un* jj
 ```
