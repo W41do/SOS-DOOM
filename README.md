@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
+  <a href="https://store.steampowered.com/app/2280/DOOM_1993/">
+    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/ master/assets/doom_256x183.png" alt="Logo" width="256">
   </a>
 
   <h3 align="center">« DOOM (1993) Original Version  »</h3>
@@ -63,7 +63,10 @@
 
 
 <!-- ABOUT THIS GAME -->
-# **ABOUT THIS GAME**
+# **DOOM (1993) Original**
+
+## **ABOUT THIS GAME**
+
 The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,8 +98,8 @@ A 100% Windows 95/98/ME/2000-compatible true 16-bit sound card and drivers or le
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
-# **ABOUT THIS PROJECT**
-## **Assignment and purpose**
+# **DOOM - SOS EDITION**
+## **ABOUT THIS PROJECT**
 
 The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM**.
 
@@ -162,21 +165,12 @@ Section on running DOOM on a minimal installation of CentOS Stream 9 without GUI
 
 
 # **DANGER ZONE**
-# **DANGER ZONE**
-# **DANGER ZONE**
-# **DANGER ZONE**
-# **DANGER ZONE**
+
 
 ## The content below has not been edited yet and served primarily as a solving procedure for the author.
 ---
-## The content below has not been edited yet and served primarily as a solving procedure for the author.
----
-## The content below has not been edited yet and served primarily as a solving procedure for the author.
----
-## The content below has not been edited yet and served primarily as a solving procedure for the author.
----
-## The content below has not been edited yet and served primarily as a solving procedure for the author.
----
+
+
 
 ## Clone & Run DOOM on Linux
 
@@ -643,3 +637,15 @@ un* jj
 ```
 
 ![Minion](https://octodex.github.com/images/minion.png)
+
+
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
