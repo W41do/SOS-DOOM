@@ -159,25 +159,55 @@ Section on running DOOM on a minimal installation of CentOS Stream 9 without GUI
 title: Project Workflow
 ---
 flowchart TD
+    
     s0{{"Clone The <strong>DOOM</strong> Source Code from <strong>id Software</strong><br>[<i> https://github.com/id-Software/DOOM </i>]"}}
+    
     s1{{"Obtain <strong>Shareware</strong> Version of <strong>DOOM</strong> from the website DOOMWORLD<br>[https://www.doomworld.com/classicdoom/info/shareware.php]"}}
-    s2{{Fix Broken DOOM Code and make my own GitHub repo with Fixed Code}}
-    s3{{CentOS Minimal Install}}
-    s4{{Clone & Compile DOOM}}
-    s5{{Test if it works}}
+
+    s2{{CentOS Stream 9 Minimal Install}}
+
+    s3{{Clone this GitHub Repo}}
+
+    s4{{Fix Broken DOOM Code and Push The Fixed Code on This GitHub Repo}}
+
+    s5{{Compile & Run DOOM... is it working?}}
+
     s6{{Make OVA as backup}}
-    s7{{Restore latest working OVA}}
-    s8{{"Delete something you think is not important."}}
+
+    s7{{"Delete something you think is not important."}}
+
+    s8{{Reboot}}
+    
+    s9{{Is The DOOM Still Working?}}
+
+    s10([Make OVA as backup if <br>you have done many changes])
+
+    s11{{Restore latest working OVA}}
+
+    s12{{Are you satisfied with this minimal size?}}
+    s13{{Your Project is Finished.<br>Play DOOM & Have Fun}}
 
     s0 --> s1
     s1 --> s2
     s2 --> s3
     s3 --> s4
     s4 --> s5
-    s5 --> s6
+    
+    s5 -->|no| s4
+    s5 -->|yes| s6
+    
     s6 --> s7
     s7 --> s8
     s8 --> s9
+
+    s11 --> s7
+
+    s9 -->|yes| s12
+    s12 -->|no| s10 --> s7
+    s12 -->|yes| s13
+    s9 -->|no| s11
+
+    
     %% start -->|text| stop
     %% start --> st
 
