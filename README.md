@@ -15,6 +15,9 @@
     <br />
     <a href="https://github.com/W41do/SOS-DOOM/tree/master/DOOM"> « Fixed DOOM Source Code »</a> · <a href="TODO">« Documentation »</a> · <a href="https://www.youtube.com/watch?v=2WvoFOwv7z4">« DOOM Original Soundtrack »</a>
   </p>
+  <p align="center">
+    <a href="https://github.com/W41do/SOS-DOOM/tree/master/DOOM"> « Download CentOS DOOM OVA file »</a> · <a href="TODO">« Documentation »</a> · <a href="https://www.youtube.com/watch?v=2WvoFOwv7z4">« How To Run it »</a>
+  </p>
 </div>
 
 
@@ -137,16 +140,52 @@ The source code modification and compilation were done following the tutorial fr
 
 Shareware (*Shareware is a software marketing concept where an incomplete or time-limited version of a program is released to entice people into buying the full (registered) version.*) was obtained from the website `www.doomworld.com`
 
+
+
+
 > `https://www.doomworld.com/classicdoom/info/shareware.php`
 
 
-
+Please see here what is WAD file: `https://doom.fandom.com/wiki/WAD`
 
 
 TODO 
 
 
 Section on running DOOM on a minimal installation of CentOS Stream 9 without GUI.
+
+```mermaid
+---
+title: Project Workflow
+---
+flowchart TD
+    s0{{"Clone The <strong>DOOM</strong> Source Code from <strong>id Software</strong><br>[<i> https://github.com/id-Software/DOOM </i>]"}}
+    s1{{"Obtain <strong>Shareware</strong> Version of <strong>DOOM</strong> from the website DOOMWORLD<br>[https://www.doomworld.com/classicdoom/info/shareware.php]"}}
+    s2{{Fix Broken DOOM Code and make my own GitHub repo with Fixed Code}}
+    s3{{CentOS Minimal Install}}
+    s4{{Clone & Compile DOOM}}
+    s5{{Test if it works}}
+    s6{{Make OVA as backup}}
+    s7{{Restore latest working OVA}}
+    s8{{"Delete something you think is not important."}}
+
+    s0 --> s1
+    s1 --> s2
+    s2 --> s3
+    s3 --> s4
+    s4 --> s5
+    s5 --> s6
+    s6 --> s7
+    s7 --> s8
+    s8 --> s9
+    %% start -->|text| stop
+    %% start --> st
+
+
+
+%% style id1 fill:#f9f,stroke:#333,stroke-width:4px
+%% style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -643,12 +682,3 @@ un* jj
 
 
 
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
