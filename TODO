@@ -1,6 +1,6 @@
 Udelat preklad dokumentace a dohodit ji sem.
 
-Zminit ucastniky na projektu
+Zminit ucastniky na projektu - Yukemi & necrolcz
 
 Uploadnout OVA na nejaky shared disk a hodit sem na to link
 
@@ -15,6 +15,9 @@ porovnat centos full install / minimal install / dosazena minimalni velikost
 dohodit sem doom1.wad
 
 Udelat poradek v readme
+
+Udelat cely proces znovu, ale tentokrat snizit velikost dynamicky alokovane pameti predtim, nez se vsechno vymaze a nepujde tim padem uz udelat... :D
+ - https://www.howtogeek.com/312883/how-to-shrink-a-virtualbox-virtual-machine-and-free-up-disk-space/
 
 IMPORTANT
 
