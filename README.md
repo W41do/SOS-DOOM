@@ -1,3 +1,5 @@
+> ⚠️⚠️⚠️ The development of this project has been paused due to the author's busy schedule with school and work. Expect further updates in the summer of 2023. ⚠️⚠️⚠️
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -16,7 +18,7 @@
     <a href="https://github.com/W41do/SOS-DOOM/tree/master/DOOM"> « Fixed DOOM Source Code »</a> · <a href="TODO">« Documentation »</a> · <a href="https://www.youtube.com/watch?v=2WvoFOwv7z4">« DOOM Original Soundtrack »</a>
   </p>
   <p align="center">
-    <a href="https://github.com/W41do/SOS-DOOM/tree/master/DOOM"> « Download CentOS DOOM OVA file »</a> · <a href="TODO">« Documentation »</a> · <a href="https://www.youtube.com/watch?v=2WvoFOwv7z4">« How To Run it »</a>
+    <a href="https://github.com/W41do/SOS-DOOM"> « Download DOOM OVA »</a> · <a href="https://github.com/W41do/SOS-DOOM">« How To Run DOOM OVA »</a>
   </p>
 </div>
 
