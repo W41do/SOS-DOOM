@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://store.steampowered.com/app/2280/DOOM_1993/">
-    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
+    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_logo_256x183.png" alt="Logo" width="256">
   </a>
 
   <h3 align="center">« DOOM (1993) Original Version  »</h3>
@@ -65,7 +65,7 @@
 <!-- ABOUT THIS GAME -->
 # **DOOM (1993) Original**
 
-## **ABOUT THIS GAME**
+## **ABOUT THE GAME**
 
 The demons came and the marines died... except one. You are the last defense against Hell. Prepare for the most intense battle you’ve ever faced. Experience the complete, original version of the game DOOM developed by id Software, and originally released in 1993, DOOM pioneered and popularized the first-person shooter, setting a standard for all FPS games.
 
@@ -99,9 +99,10 @@ A 100% Windows 95/98/ME/2000-compatible true 16-bit sound card and drivers or le
 
 <!-- ABOUT THE PROJECT -->
 # **DOOM - SOS EDITION**
+
 ## **ABOUT THIS PROJECT**
 
-The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM**.
+The goal of this project was to modify a Linux kernel-based operating system to **minimize its size to the smallest possible**. The minimized system had to be able to **run DOOM (1993) Original**.
 
 The project is based on an artificially created problem. Minimalistic systems can be found in practice. The aim of the project is to deepen knowledge of the structure of operating systems, especially those based on the Linux kernel. Linux-based systems are commonly used on various hardware platforms, from single-board computers and desktops to computing clusters. They are also used in a wide range of devices related to study programs at the faculty. These include mobile devices, sensor units, multimedia devices, network devices (routers, switches), medical devices, and more.
 
