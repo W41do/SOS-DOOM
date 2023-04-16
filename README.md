@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://store.steampowered.com/app/2280/DOOM_1993/">
-    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/ master/assets/doom_256x183.png" alt="Logo" width="256">
+    <img src="https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_256x183.png" alt="Logo" width="256">
   </a>
 
   <h3 align="center">« DOOM (1993) Original Version  »</h3>
@@ -637,6 +637,8 @@ un* jj
 ```
 
 ![Minion](https://octodex.github.com/images/minion.png)
+
+![DOOM Guy](https://raw.githubusercontent.com/W41do/SOS-DOOM/master/assets/doom_guy.png)
 
 
 
